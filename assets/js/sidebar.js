@@ -55,13 +55,6 @@ export function sidebar() {
     </div>
 
     <div class="sidebar-footer">
-      <p class="copyright">
-        Copyright 2023
-        <a href="https://github.com/rajeevkrS" class="link"
-          >Rajeev Kumar Sudhansu</a
-        >
-      </p>
-
       <img
         src="./assets/images/tmdb-logo.svg"
         width="130"
